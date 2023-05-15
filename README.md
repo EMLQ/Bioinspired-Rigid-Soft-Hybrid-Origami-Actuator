@@ -12,7 +12,7 @@
 
 ## Fabricated parts:
 ### For the parallel mechanism:
-1. 3D printed parts (35*16*4mm for the linkage, r=60mm for the fixed and moving plates)
+1. 3D printed parts (35x16x4mm for the linkage, r=60mm for the fixed and moving plates)
 2. filament tape (Scotch 8915, 3M)
 3. 1-mm silicon rubber panel (Ecoflex 00-10) 
 4. silicon glue (Instant Adhesive 5562, Kaibingtuan)
