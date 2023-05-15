@@ -1,6 +1,6 @@
 # Bioinspired-Rigid-Soft-Hybrid-Origami-Actuator
-# Commercial products:
--For the parallel mechanism:
+## Commercial products:
+### For the parallel mechanism:
 1. N20 micro-motor with hall encoder, reduction ratio 1:50 (no brand, purchased from taobao.com)
 2. micro-controller (Mega 2560, Arduino)
 -For the pneumatic chamber:
@@ -10,8 +10,8 @@
 4. micro-controller (Mega 2560, Arduino)
 5. air source from air compressor
 
-# Fabricated parts:
--For the parallel mechanism:
+## Fabricated parts:
+### For the parallel mechanism:
 1. 3D printed parts (35*16*4mm for the linkage, r=60mm for the fixed and moving plates)
 2. filament tape (Scotch 8915, 3M)
 3. 1-mm silicon rubber panel (Ecoflex 00-10) 
